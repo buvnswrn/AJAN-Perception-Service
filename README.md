@@ -1,2 +1,6 @@
-# AJAN-Perception-Service
-A Perception Service for the AJAN Agent System
+# README
+
+## Installation
+`pip install streamlit pyperclip`
+## Usage
+`streamlit run app.py`
