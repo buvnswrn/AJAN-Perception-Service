@@ -1,7 +1,7 @@
 # README
 
 ## Installation
-Install using the conda environment file - `conda env create -f environment.yml` or use
+Install using the conda environment file - `conda env create -f environment.yaml` or use
 
 `pip install streamlit pyperclip`
 ## Usage
